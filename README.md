@@ -8,7 +8,6 @@
 <p> Currently working on this ReadMe</p>
 
 #### Table of Contents
-[Business Case](#business-case) | 
 [Data Description](#data-description) | 
 [Approach](#approach) | 
 [Results](#results) | 
@@ -16,9 +15,6 @@
 [Credits](#credits)
 
 <!-- Insert Banner photo of dashboard -->
-
-### Business Case
-
 
 ### Data Description
 
